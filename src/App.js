@@ -1,5 +1,5 @@
 import './App.css';
-import Api from './component'
+import Api from './components/component'
 function App() {
   return (
     <div className="App">
